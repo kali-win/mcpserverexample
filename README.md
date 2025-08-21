@@ -14,4 +14,4 @@ To install the MCP Server, run the following command:
       ]
     }
   }
-}```
+```
