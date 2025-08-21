@@ -1,10 +1,11 @@
-# Installation Steps
+## Installation
 
-To install the 'add_tool' MCP server run the following command:
+To install the MCP Server, run the following command:
 
+```json
 {
   "mcpServers": {
-    "add_tool": {
+    "Add_Tool": {
       "command": "uvx",
       "args": [
         "--from",
@@ -13,4 +14,4 @@ To install the 'add_tool' MCP server run the following command:
       ]
     }
   }
-}
+}```
