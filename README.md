@@ -10,7 +10,7 @@ To install the MCP Server, run the following command:
       "args": [
         "--from",
         "git+https://github.com/kali-win/mcpserverexample.git",
-	"mcp-server"
+	    "mcp-server"
       ]
     }
   }
